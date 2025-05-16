@@ -13,6 +13,7 @@
 C站（Civitai）、Huggingface上有非常多基座模型，自己喜欢的才是最好的，动漫风格推荐：
 - https://civitai.com/models/833294/noobai-xl-nai-xl
 - https://civitai.com/models/827184/wai-nsfw-illustrious-sdxl
+
 真人风格推荐:
 - https://huggingface.co/black-forest-labs/FLUX.1-dev
 

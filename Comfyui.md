@@ -36,6 +36,8 @@ ComfyUI本身提供很多预设工作流，社区也有许多工作流可供下�
    - https://d0xb9r3fg5h.feishu.cn/docx/WWOHdr6RMoQZxQxCZRGc5KlEnUi
 6. 个人总结
    - https://docs.qq.com/sheet/DZGZhYU9mT1dQaGdT
+7. 画风对应画师串
+   - https://docs.google.com/spreadsheets/d/1eGBy8WKavBtG2SKz8p8coP4k-kMilweR70zCMj-QGbM/edit?pli=1&gid=1674089997#gid=1674089997
 
 # Environment Variables
 
